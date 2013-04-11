@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.params=width\ height
+comment0.target=TileMap(int,\ int)
+comment0.text=\r\n\ \ \ \ \ \ \ \ Creates\ a\ new\ TileMap\ with\ the\ specified\ width\ and\r\n\ \ \ \ \ \ \ \ height\ (in\ number\ of\ tiles)\ of\ the\ map.\r\n
+comment1.params=filename
+comment1.target=TileMap\ loadMap(java.lang.String)
+numComments=2

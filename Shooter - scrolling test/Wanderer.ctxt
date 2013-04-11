@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.params=x\ y
+comment0.target=void\ setLocation(int,\ int)
+comment0.text=\r\n\ Set\ the\ location\ of\ the\ actor.\r\n
+comment1.params=
+comment1.target=int\ getX()
+comment1.text=\r\n\ Get\ the\ x\ co-ordinate\ of\ the\ actor.\r\n
+comment2.params=
+comment2.target=int\ getY()
+comment2.text=\r\n\ Get\ the\ y\ co-ordinate\ of\ the\ actor.\r\n
+numComments=3
