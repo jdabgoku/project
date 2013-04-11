@@ -18,7 +18,6 @@ public class GroundVertical extends Wanderer
         checkLocation();
         //2357 or more of more ground change to invisible.gif
         GroundVertical gVert = new GroundVertical();
-        System.out.println(gVert);
     }    
     
     public void move(){
