@@ -1,5 +1,5 @@
 import greenfoot.*;  // (World, Actor, GreenfootImage, Greenfoot and MouseInfo)
-//test
+//MASTER
 /**
 if clicked, just goes back to main menu
  */
